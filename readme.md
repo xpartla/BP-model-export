@@ -12,5 +12,8 @@ Final model - LightGBM, achieveing ~0.96 AUC score.\
 Model exported to ONNX with numerical equivalent verification.\
 Exported artifacts for standalone inference (schema, preprocessing metadata...).
 
+### Additional work
+[Rust inference engine](https://github.com/xpartla/BP-inference-extension) for MCI prediction
+
 ### Notes
 Research-oriented project intended for experimentation, not clinical deployment.
